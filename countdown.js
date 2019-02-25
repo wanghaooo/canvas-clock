@@ -1,5 +1,5 @@
 WINDOW_WIDTH = window.screen.width;
-WINDOW_HEIGHT = 930;
+WINDOW_HEIGHT = window.screen.height;
 
 MARGIN_LEFT = Math.round(WINDOW_WIDTH / 10);
 RADIUS = Math.round((WINDOW_WIDTH * 4) / 5 / 108) - 1;
